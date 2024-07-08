@@ -3,4 +3,4 @@
 
 Side Scroll adalah jenis permainan video di mana aksi atau permainan berlangsung dalam perspektif dua dimensi (2D) dan pemain menggerakkan karakter utama mereka dari sisi layar ke sisi lainnya, biasanya dari kiri ke kanan.
 Pada game ini , sudut pandang kamera seolah- olah di samping karakter, dan mengikuti pergerakan pemain.
-Game ini bertujuan untuk dapat menghibur user.
+Game ini bertujuan untuk dapat menghibur user / pemain.
